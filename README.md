@@ -9,7 +9,7 @@ Shim repository for [Glightbox](https://github.com/mcstudios/glightbox) as [Cont
 ## Install
 
 ```
-composer require heimrichhannot-contao-components/glightbox
+composer require heimrichhannot-contao-components/glightbox-gallery
 ```
 
 
