@@ -1,0 +1,24 @@
+{
+  "name": "heimrichhannot-contao-components/glightbox-gallery",
+  "description": "A shim repositoy for glightbox as contao component.",
+  "type": "contao-component",
+  "license": "MIT",
+  "keywords": [
+    "contao",
+    "contao-component",
+    "glightbox",
+    "shim",
+    "javascript"
+  ],
+  "authors": [
+    {
+      "name": "Heimrich & Hannot",
+      "email": "digitales@heimrich-hannot.de",
+      "homepage": "http://www.heimrich-hannot.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "contao-components/installer": "^1.0"
+  }
+}
