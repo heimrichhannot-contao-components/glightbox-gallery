@@ -20,13 +20,13 @@ Add the following to your config (keep keys to prevent double integration):
 ### Contao 4
 
 ```
-$GLOBALS['TL_JAVASCRIPT']['huh_components_glightbox'] = 'assets/glightbox/js/glightbox.min.js|static';
-$GLOBALS['TL_USER_CSS']['huh_components_glightbox'] = 'assets/glightbox/css/glightbox.min.css|static';
+$GLOBALS['TL_JAVASCRIPT']['huh_components_glightbox'] = 'assets/glightbox-gallery/js/glightbox.min.js|static';
+$GLOBALS['TL_USER_CSS']['huh_components_glightbox'] = 'assets/glightbox-gallery/css/glightbox.min.css|static';
 ```
 
 ### Contao 3
 
 ```
-$GLOBALS['TL_JAVASCRIPT']['huh_components_glightbox'] = 'assets/components/glightbox/js/glightbox.min.js|static';
-$GLOBALS['TL_USER_CSS']['huh_components_glightbox'] = 'assets/components/glightbox/css/glightbox.min.css|static';
+$GLOBALS['TL_JAVASCRIPT']['huh_components_glightbox'] = 'assets/components/glightbox-gallery/js/glightbox.min.js|static';
+$GLOBALS['TL_USER_CSS']['huh_components_glightbox'] = 'assets/components/glightbox-gallery/css/glightbox.min.css|static';
 ```
